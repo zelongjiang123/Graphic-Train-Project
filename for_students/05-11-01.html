@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="../libs/CS559/style559.css" />
+  </head>
+
+  <body>
+    <canvas id="canvas1" height="400" width="400"></canvas>
+
+    <!-- students should add slider and checkbox -->
+    <p>
+      Number of points(20-200)
+      <input
+        type="range"
+        width="100px"
+        min="20"
+        max="200"
+        step="1"
+        value="100"
+        id="number_points"
+      />
+    </p>
+    <p>
+      connect the dots<input type="checkbox" id="connection_checkbox" />
+      beziers<input type="checkbox" id="bezier_checkbox" />
+    </p>
+
+    <script src="05-11-01.js" type="module" defer></script>
+  </body>
+</html>

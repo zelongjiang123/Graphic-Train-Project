@@ -1,0 +1,6 @@
+a0 = 10, 5
+a1 = 0, 0
+a2 = 0, 0
+a3 = 40, 70
+
+please replace the ? with numbers

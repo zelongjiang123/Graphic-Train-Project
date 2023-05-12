@@ -1,0 +1,5 @@
+Divide the curve (0,0), (0,8), (8,0) into two curves at u=.5
+The first curve is:
+(0, 0), (0, 4), (2, 4)
+and the second is
+(2, 4), (4, 4), (8, 0)
