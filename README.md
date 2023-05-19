@@ -20,6 +20,10 @@
 
 Note: The track is a Bézier curve controlled by the black dots
 
+## Main coding language:
+
+Javascript, HTML, CSS
+
 ## Attributions:
 
 This set of web pages forms a "workbook" assignment for
