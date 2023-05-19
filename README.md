@@ -1,6 +1,6 @@
 # CS559 Workbook, Spring 2023
 
-Run Program:
+## Run Program:
 
 1. Open the Graphic-Train-Project in visual studio code, navigate to for_students directory, and open 05-14-01.html with a live server (right click in 05-14-01.html and find the "open with live server option").
 
@@ -20,7 +20,7 @@ Run Program:
 
 Note: The track is a Bézier curve controlled by the black dots
 
-Attributions:
+## Attributions:
 
 This set of web pages forms a "workbook" assignment for
 CS559, Computer Graphics at the University of Wisconsin for Spring 2023.
