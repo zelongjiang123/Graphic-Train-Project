@@ -20,8 +20,10 @@ Run Program:
 
 Note: The track is a Bézier curve controlled by the black dots
 
+Attributions:
+
 This set of web pages forms a "workbook" assignment for
-CS559, Computer Graphics at the University of Wisconsin for Spring 2022.
+CS559, Computer Graphics at the University of Wisconsin for Spring 2023.
 
 Information about the class is available on the course web:
 https://graphics.cs.wisc.edu/Courses/559-sp23/
