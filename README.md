@@ -22,7 +22,7 @@ Note: The track is a Bézier curve controlled by the black dots
 
 ## Main files:
 
-05-14-01.html, 05-14.01.js
+05-14-01.html, 05-14-01.js
 
 ## Main coding language:
 
