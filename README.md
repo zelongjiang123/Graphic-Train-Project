@@ -36,8 +36,7 @@ CS559, Computer Graphics at the University of Wisconsin for Spring 2023.
 Information about the class is available on the course web:
 https://graphics.cs.wisc.edu/Courses/559-sp23/
 
-The `for_students` sub-directory contains files for the students to read and
-modify.
+The `for_students` sub-directory contains all the files written by me (Zelong Jiang).
 
 The `libs` sub-directory contains libraries used by the workbook. These
 have separate open source licenses provided in the directories.
